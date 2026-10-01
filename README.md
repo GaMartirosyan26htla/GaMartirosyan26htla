@@ -2,7 +2,8 @@
 <html>
   <I><t> I am Ga Martirosyan </t></I>
 <u><h1>Hobbies</h1></u>
-  <
+  <img src="https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxNjYwMzEzLXdpa2ltZWRpYS1pbWFnZS1rb3diNHU1OC5qcGc.jpg"
+  <p><u> I prefer cooking as one of my hobbies, because it helps me unwind, and it really helps me learn to be resourceful with what I have. It also helps me learn about what kind of person I want to be, because it made me realize that I might want to pursue a career that relates to cooking.</u><p>
   
   
   
