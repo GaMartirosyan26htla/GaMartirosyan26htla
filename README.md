@@ -1,7 +1,8 @@
 ## Hi there 👋
 <html>
   <I><t> I am Ga Martirosyan </t></I>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0sti4iKBo_JyWAVo_wXY3F5JMRPdhYqHUjCgqIhcmA&s=10">
+<u><h1>Athletic over view</h1>/u>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0sti4iKBo_JyWAVo_wXY3F5JMRPdhYqHUjCgqIhcmA&s=10">
 <header>I try to be athletic, but I mostly just play one sport. I try to be more physical in my sport, I also try to get better in other sports other than basketball like boxing but I'm not any good.</header>
 
 <header> I am super duper handsome</header>
