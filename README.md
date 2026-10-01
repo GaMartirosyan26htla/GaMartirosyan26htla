@@ -20,7 +20,7 @@
 
 <u><h1>My grandma said im handsome</h1></u>
 <i><p>I am also really handsome.</p></i>
-<p> Although Steven does not think so.</p>
+<p> Although haters does not think so.</p>
 <i><p>But my grandma says I am really cool.</p></i>
 <p>There is a lot of proof pointing to the fact that I am very handsome.</p>
 <i><p>One piece of proof is how i'm really cool.</p></i>
